@@ -115,7 +115,7 @@ if you assined create your own team and assined task to them then
 ###Admin Portal
 Use the following credentials to log in as an Admin:
 
-- **Username**: mohanchand@zidio
-- **Password**: Admin@123
+- **Username**: mohanchand@zidio.com,
+- **Password**:Admin@123
   ---
   ### If you need to contract me kmohanchandkmc988@gmail.com
