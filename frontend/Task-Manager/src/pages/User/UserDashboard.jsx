@@ -85,7 +85,7 @@ const UserDashboard = () => {
             {moment().format("dddd Do MMM YYYY")}
           </p>
         </div>
-      </div>
+      
 
       <div className="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-4 gap-3 md:gap-6 mt-5">
         <InfoCard
@@ -108,6 +108,7 @@ const UserDashboard = () => {
           value={addThousandsSeparator(dashboardData?.charts?.taskDistribution?.Completed || 0)}
           color="bg-lime-500"
         />
+      </div>
       </div>
 
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6 my-4 md:my-6">
